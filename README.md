@@ -1,2 +1,1 @@
-# app-ads
-Repository chứa file app-ads.txt cho AdMob
+google.com, pub-4021042883772023, DIRECT, f08c47fec0942fa0
